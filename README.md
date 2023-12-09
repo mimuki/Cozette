@@ -8,7 +8,8 @@
 
 ![Cozette](./img/sample.png)
 
-A bitmap programming font optimized for coziness.
+A bitmap programming font optimized for coziness, edited with my own personal tweaks:
+> Some block drawing characters made wider
 
 # Contents
 
@@ -21,7 +22,7 @@ A bitmap programming font optimized for coziness.
     - [Dmenu](#dmenu)
     - [VSCode, general GUI applications](#vscode-general-gui-applications)
     - [Kitty](#kitty)
-  - [Variants](#variants)
+  - [Variants](#variants-and-sizes)
 - [Roadmap](#roadmap)
 - [Recommended alternatives](#recommended-alternatives)
 - [Character map](#character-map)
